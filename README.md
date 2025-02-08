@@ -1,4 +1,4 @@
-### **📌 Expanded GitHub Repository Description for Online Banking Backend**  
+### ** Online Banking Backend**  
 
 🚀 **Online Banking Backend** is a **Spring Boot-powered REST API** designed to provide **secure and efficient banking operations**. This backend serves as the core of an **online banking system**, handling user authentication, transactions, accounts, and more with robust security mechanisms.  
 
