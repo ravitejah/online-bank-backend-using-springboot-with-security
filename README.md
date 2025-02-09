@@ -6,12 +6,11 @@
 
 ## **🔹 Tech Stack & Features**
 ### **🔹 Backend Technologies:**
-✅ **Spring Boot 3+** – Microservice-based architecture for fast and efficient development.  
+✅ **Spring Boot 3+** 
 ✅ **Spring Security & JWT Authentication** – Secure user authentication and role-based access control (RBAC).  
 ✅ **Spring Data JPA & Hibernate** – ORM-based database interaction for optimized query execution.  
 ✅ **MySQL Database** – Reliable relational database for secure and scalable banking transactions.  
 ✅ **OpenAPI (Swagger 3.0) Documentation** – API documentation for easy testing and integration.  
-✅ **Spring Validation** – Built-in input validation to prevent errors and enforce data integrity.  
 ✅ **Exception Handling** – Global error handling .  
 
 ---
@@ -79,7 +78,7 @@
 ### **Steps**
 ```sh
 # Clone the Repository
-git clone https://github.com/YOUR_USERNAME/online-bank-backend.git
+git clone https://github.com/ravitejah/online-bank-backend.git
 cd online-bank-backend
 
 # Configure Database in application.properties
@@ -103,8 +102,8 @@ We welcome contributions! Feel free to open an **issue** or submit a **pull requ
 ---
 
 ## **📞 Contact & Links**
-- 🔗 **GitHub:** [Raviteja](https://github.com/ravitejah)
-- 🔗 **LinkedIn:** [Raviteja](https://www.linkedin.com/in/ravitejarin/) 
+- 🔗 **GitHub:** [ravitejah](https://github.com/ravitejah)
+- 🔗 **LinkedIn:** [Raviteja R](https://www.linkedin.com/in/ravitejarin/) 
 
 📩 **For any queries, feel free to reach out!** 🚀🔥  
 
